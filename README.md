@@ -1,4 +1,4 @@
-# Evaluación Git y GitHub Actions
+# Evaluación Git y GitHub Actions- Victor Garay Soto Seccion002D
 **Primer encargo:** Simulación de desarrollo colaborativo. Implementación de flujo de trabajo con GitFlow, revisión mediante Pull Requests y automatización básica con GitHub Actions.
 
 ---
